@@ -1,7 +1,7 @@
 1.)  cd Downloads
 
 2.)  Copy and Paste 
-  a) wget https://github.com/fossil74/WiFi-Photobooth/blob/master/autohotspotN-setup
+  a) wget https://raw.githubusercontent.com/fossil74/WiFi-Photobooth/master/autohotspotN-setup
 
 3.)  sudo chmod +x autohotspotN-setup
 

@@ -1,7 +1,10 @@
 1.)  cd Downloads
+
 2.)  Copy and Paste 
   a) wget https://github.com/fossil74/WiFi-Photobooth/blob/master/autohotspotN-setup
+
 3.)  sudo chmod +x autohotspotN-setup
+
 4.)  sudo ./autohotspotN-setup
   a) Home WiFi to Connect the PI xxxxx
   b) Home WiFi password xxxxxx
